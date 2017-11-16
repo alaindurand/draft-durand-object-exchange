@@ -58,7 +58,7 @@ the DNS.
 # Introduction
 
 This document defines an RR type ("OX") to implement an architecture for
-the exchange of digital objects using persistent identifiers stored
+the exchange of digital objects using identifiers stored
 within the DNS.  DNS. Each OX RR contains an object type that might be
 opaque and private to the producer and the consumer of the data and
 either the data (if small enough to fit in the RR) or a pointer on how
